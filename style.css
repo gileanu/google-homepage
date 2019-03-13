@@ -1,0 +1,84 @@
+a {
+	text-decoration: none;
+	color: black;
+}
+.header {
+	text-align: right;
+	color: black;
+	font-family: arial;
+	font-size: 13px;
+}
+#gmail {
+	padding-right: 20px;
+}
+#images {
+	padding-right: 20px;
+}
+#singin {
+	padding-right: 20px;
+	background-color: #006bff;
+	padding: 10px;
+}
+.googlelogo {
+    width: 15%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 230px;
+}
+.sbar {
+    width: 15%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding: 2px;
+}
+#sbar1 {
+	width: 290px;
+	height: 25px;
+	padding: 2px;
+}
+.sbutton{
+	padding: 2px;
+}
+.luckybut{
+	padding: 2px;
+}
+.buttons {
+	text-align:center;
+    margin:auto;
+    padding-right: 20px;
+}
+.footer {
+	font-family: arial;
+	padding-right: 10px;
+	position: absolute;
+	bottom: 10px;
+}
+#adv {
+	padding-right: 10px;
+}
+#bus {
+	padding-right: 10px;
+}
+#about {
+	padding-right: 10px;
+}
+.footerr {
+	font-family: arial;
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+#privacy {
+	padding-right: 10px;
+}
+#terms {
+	padding-right: 10px;
+}
+#settings {
+	padding-right: 10px;
+}
